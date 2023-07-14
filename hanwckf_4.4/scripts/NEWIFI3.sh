@@ -5,7 +5,7 @@
 #####################################################################
 
 lan_ip="192.168.6"                          # LAN 地址 别写后面的 .1
-default_path="./user"                # 默认配置路径
+default_path="./user/shared"                # 默认配置路径
 config="./configs/templates/NEWIFI3.config"     # 默认配置文件
 
 echo "修改 LAN IP 地址"
